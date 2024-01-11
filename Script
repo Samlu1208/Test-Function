@@ -1,3 +1,4 @@
+# Script found here: https://pastebin.com/FvASwLVQ
 
 Write-Host "THIS CRADLE WORKED!!!" -NoNewLine -ForegroundColor Yellow
 Write-Host " --" -NoNewLine -ForegroundColor White
